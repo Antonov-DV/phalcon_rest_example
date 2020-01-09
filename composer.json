@@ -1,0 +1,9 @@
+{
+    "require-dev": {
+        "phalcon/devtools": "^4.0"
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^6.5",
+        "symfony/event-dispatcher": "^2.7"
+    }
+}
